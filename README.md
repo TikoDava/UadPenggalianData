@@ -1,4 +1,4 @@
-# UasPenggalianData
+# UasPenalaranKomputer
 
 # Pipeline Analisis Putusan MA Menggunakan Case-Based Reasoning (CBR)
 
